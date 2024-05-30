@@ -6,9 +6,9 @@ Welcome to the **Muscle-Mate Gym Explorer**!
 
 The Muscle-Mate Gym Explorer is your ultimate companion for optimizing your gym experience with personalized workout plans tailored to your goals and preferences. Powered by React, this web application offers a seamless and intuitive platform, empowering you to achieve your fitness aspirations with confidence and efficiency.
 
-[![Explore the Muscle-Mate Gym Explorer](https://musclemate-app.netlify.app/#workout)](https://musclemate-app.netlify.app/#workout)
+[Explore the Muscle-Mate Gym Explorer](https://musclemate-app.netlify.app/)
 
-[![Watch the demo](ADD_YOUR_YOUTUBE_THUMBNAIL_LINK_HERE)](ADD_YOUR_YOUTUBE_DEMO_LINK_HERE)
+[Demo coming soon](ADD_YOUR_YOUTUBE_THUMBNAIL_LINK_HERE)]
 
 ## 💡 How to Explore
 
