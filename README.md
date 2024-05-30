@@ -8,7 +8,7 @@ The Muscle-Mate Gym Explorer is your ultimate companion for optimizing your gym 
 
 [Explore the Muscle-Mate Gym Explorer](https://musclemate-app.netlify.app/)
 
-[Demo coming soon](ADD_YOUR_YOUTUBE_THUMBNAIL_LINK_HERE)]
+[Demo coming soon](ADD_YOUR_YOUTUBE_THUMBNAIL_LINK_HERE)
 
 ## 💡 How to Explore
 
