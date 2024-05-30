@@ -16,7 +16,7 @@ The Muscle-Mate Gym Explorer is your ultimate companion for optimizing your gym 
    
 2. **Lock on Targets**: Handpick the muscle groups you want to focus on for each workout, ensuring a targeted and effective exercise routine.
 
-3. **Become Juggernaut**: Set your ultimate fitness objective, whether it's building *strength and power*, focusing on *growth and hypertrophy*, or improving *cardiovascular endurance*.
+3. **Become Judgement**: Set your ultimate fitness objective, whether it's building *strength and power*, focusing on *growth and hypertrophy*, or improving *cardiovascular endurance*.
 
 4. **Formulate Your Workout**: Generate a personalized workout plan tailored to your selections, providing detailed exercise descriptions, parameters, and sets to guide your gym session.
 
